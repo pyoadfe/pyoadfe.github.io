@@ -10,7 +10,7 @@
 - `ru` [Интерактивный задачник по Python](http://pythontutor.ru) — не все примеры решений хороши, но много хороших задач
 - `ru` [Игра, в которой герой управляется вашей программой](http://codecombat.com), выберите Python при создании персонажа
 - `ru` [Курс Вышки на Coursera](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
-- `ru` [Курс на Stepil](https://stepik.org/course/67/)
+- `ru` [Курс на Stepik](https://stepik.org/course/67/)
 - [Курс на Codeacademy](https://www.codecademy.com/learn/learn-python)
 - [Официальный туториал по языку](https://docs.python.org/3/tutorial/index.html) — очень хороший материал для последовательного изучения языка
 - `ru` [Изучите Python за Y минут](https://learnxinyminutes.com/docs/ru-ru/python3-ru/) — хороший туториал для быстрого погружения в язык, требуется уверенное владение другим языком программирования
