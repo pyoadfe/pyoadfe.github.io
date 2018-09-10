@@ -1,6 +1,6 @@
 # Обработка физических данных
 
-Тестовое задание для первой пары: <https://classroom.github.com/a/4MeATrBL>
+[Таблица с текущей успеваемостью.](https://docs.google.com/spreadsheets/d/1qA9lkkvTUCxgc2h1mRjFH_gaZmp-YyYYFNYXhctx020/edit?usp=sharing) Оценки к тесту на первой паре ознакомительные и не будут никака учитваться в подсчёте итоговой оценки.
 
 ## Дополнительные материалы к курсу
 
