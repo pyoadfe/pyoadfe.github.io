@@ -1,8 +1,13 @@
 # Обработка физических данных
 
+
+## Домашнее задание
 Домашнее задание №1 «Озон»: <https://classroom.github.com/a/qtwShYgG>
 
 [Таблица с текущей успеваемостью.](https://docs.google.com/spreadsheets/d/1qA9lkkvTUCxgc2h1mRjFH_gaZmp-YyYYFNYXhctx020/edit?usp=sharing) Оценки к тесту на первой паре ознакомительные и не будут никака учитваться в подсчёте итоговой оценки.
+
+## Материалы семинаров
+- [Семинар 11 сентября](https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb): основы `numpy`, чтение и запись текстовых таблиц на примере `CSV` и модуля `pandas`, бинарные форматы на примере `FITS` и `NetCDF`, основы `matplotlib`.
 
 ## Дополнительные материалы к курсу
 
