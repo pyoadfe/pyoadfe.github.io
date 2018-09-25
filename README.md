@@ -2,13 +2,13 @@
 
 
 ## Домашнее задание
-Домашнее задание №2 «Темная материя»: <https://classroom.github.com/a/pRLm3yeQ>
-
-Домашнее задание №1 «Озон»: <https://classroom.github.com/a/qtwShYgG>
+- Домашнее задание №2 «Темная энергия»: <https://classroom.github.com/a/pRLm3yeQ>
+- Домашнее задание №1 «Озон»: <https://classroom.github.com/a/qtwShYgG>
 
 [Таблица с текущей успеваемостью.](https://docs.google.com/spreadsheets/d/1qA9lkkvTUCxgc2h1mRjFH_gaZmp-YyYYFNYXhctx020/edit?usp=sharing) Оценки к тесту на первой паре ознакомительные и не будут никак учитваться в подсчёте итоговой оценки.
 
 ## Материалы семинаров
+- Семинар 25 сентября: [конспект по методам оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf)
 - Семинар 18 сентября: [git](https://github.com/pyoadfe/seminars/blob/master/2_git.md), [решение теста, проводившегося на первом занятии 4 сентября](https://github.com/pyoadfe/seminars/blob/master/2_welcome_test_solution.ipynb)
 - [Семинар 11 сентября](https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb): основы `numpy`, чтение и запись текстовых таблиц на примере `CSV` и модуля `pandas`, бинарные форматы на примере `FITS` и `NetCDF`, основы `matplotlib`.
 
