@@ -2,6 +2,8 @@
 
 
 ## Домашнее задание
+Домашнее задание №2 «Темная материя»: <https://classroom.github.com/a/pRLm3yeQ>
+
 Домашнее задание №1 «Озон»: <https://classroom.github.com/a/qtwShYgG>
 
 [Таблица с текущей успеваемостью.](https://docs.google.com/spreadsheets/d/1qA9lkkvTUCxgc2h1mRjFH_gaZmp-YyYYFNYXhctx020/edit?usp=sharing) Оценки к тесту на первой паре ознакомительные и не будут никак учитваться в подсчёте итоговой оценки.
