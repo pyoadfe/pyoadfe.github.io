@@ -7,6 +7,9 @@
 
 [Таблица с текущей успеваемостью.](https://docs.google.com/spreadsheets/d/1qA9lkkvTUCxgc2h1mRjFH_gaZmp-YyYYFNYXhctx020/edit?usp=sharing) Оценки к тесту на первой паре ознакомительные и не будут никак учитваться в подсчёте итоговой оценки.
 
+## Материалы лекций
+- [Тезисы лекций](https://github.com/pyoadfe/lectures/blob/master/1-2_data_structures.md) 4 и 18 сентября по структурам данных
+
 ## Материалы семинаров
 - Семинар 25 сентября: [конспект по методам оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf)
 - Семинар 18 сентября: [git](https://github.com/pyoadfe/seminars/blob/master/2_git.md), [решение теста, проводившегося на первом занятии 4 сентября](https://github.com/pyoadfe/seminars/blob/master/2_welcome_test_solution.ipynb)
