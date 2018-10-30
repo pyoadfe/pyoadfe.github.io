@@ -2,6 +2,7 @@
 
 
 ## Домашнее задание
+- Домашнее задание №3 «Двойное скопление»: <https://classroom.github.com/a/IrSp7wsN>
 - Домашнее задание №2 «Темная энергия»: <https://classroom.github.com/a/pRLm3yeQ>
 - Домашнее задание №1 «Озон»: <https://classroom.github.com/a/qtwShYgG>
 
