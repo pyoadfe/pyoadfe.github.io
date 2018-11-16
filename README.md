@@ -11,6 +11,7 @@
 
 ## Материалы лекций
 - [Тезисы лекций](https://github.com/pyoadfe/lectures/blob/master/1-2_data_structures.md) 4 и 18 сентября по структурам данных
+- [Рукописный конспект лекций](https://github.com/pyoadfe/lectures/blob/master/5-6_statistics.pdf) 9.10, 16.10 и 6.11 по статистике. Рекомендуемая литература: [Linear Models And Generalizations](https://www.springer.com/gp/book/9783540742265) (линейная регрессия: МНК и правдоподобие), [Вероятность и статистика в примерах и задачах. Том I. Основные понятия теории вероятностей и математической статистики](http://biblio.mccme.ru/node/2362) (линейная регрессия, МНК, правдоподобия, проверка гипотез). Методы проверки многомерного нормального распределения на лекциях не затрагивались и являются дополнительным материалом, интересующимся смотреть обзор [Invariant tests for multivariate normality: a critical review](https://link.springer.com/article/10.1007/s00362-002-0119-6)
 
 ## Материалы семинаров
 - Семинар 25 сентября: [конспект по методам оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf)
