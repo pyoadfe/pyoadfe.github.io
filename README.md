@@ -2,6 +2,7 @@
 
 
 ## Домашнее задание
+- Домашнее задание №5 «Галактический лес»: <https://classroom.github.com/a/D_QeLik7>
 - Домашнее задание №4 «Фильтрация радионаблюдений»: <https://classroom.github.com/a/qNAdlSse>
 - Домашнее задание №3 «Двойное скопление»: <https://classroom.github.com/a/IrSp7wsN>
 - Домашнее задание №2 «Темная энергия»: <https://classroom.github.com/a/pRLm3yeQ>
