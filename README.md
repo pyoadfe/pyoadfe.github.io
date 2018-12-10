@@ -1,5 +1,7 @@
 # Обработка физических данных
 
+## Экзамен
+Экзамен пройдёт 20 декабря в 10:30 в Б-814. [Вопросы к экзамену](https://github.com/pyoadfe/lectures/raw/master/exam-questions.pdf)
 
 ## Домашнее задание
 - Домашнее задание №5 «Галактический лес»: <https://classroom.github.com/a/D_QeLik7>
