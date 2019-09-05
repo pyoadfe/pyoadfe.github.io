@@ -1,26 +1,6 @@
 # Обработка физических данных
 
-## Экзамен
-Экзамен пройдёт 20 декабря в 10:30 в Б-814. [Вопросы к экзамену](https://github.com/pyoadfe/lectures/raw/master/exam-questions.pdf)
-
-## Домашнее задание
-- Домашнее задание №5 «Галактический лес»: <https://classroom.github.com/a/D_QeLik7>
-- Домашнее задание №4 «Фильтрация радионаблюдений»: <https://classroom.github.com/a/qNAdlSse>
-- Домашнее задание №3 «Двойное скопление»: <https://classroom.github.com/a/IrSp7wsN>
-- Домашнее задание №2 «Темная энергия»: <https://classroom.github.com/a/pRLm3yeQ>
-- Домашнее задание №1 «Озон»: <https://classroom.github.com/a/qtwShYgG>
-
-[Таблица с текущей успеваемостью.](https://docs.google.com/spreadsheets/d/1qA9lkkvTUCxgc2h1mRjFH_gaZmp-YyYYFNYXhctx020/edit?usp=sharing) Оценки к тесту на первой паре ознакомительные и не будут никак учитваться в подсчёте итоговой оценки.
-
-## Материалы лекций
-- [Тезисы лекций](https://github.com/pyoadfe/lectures/blob/master/1-2_data_structures.md) 4 и 18 сентября по структурам данных
-- [Рукописный конспект лекций](https://github.com/pyoadfe/lectures/raw/master/5-7_statistics.pdf) 9.10, 16.10 и 6.11 по статистике. Рекомендуемая литература: [Linear Models And Generalizations](https://www.springer.com/gp/book/9783540742265) (линейная регрессия: МНК и правдоподобие), [Вероятность и статистика в примерах и задачах. Том I. Основные понятия теории вероятностей и математической статистики](http://biblio.mccme.ru/node/2362) (линейная регрессия, МНК, правдоподобия, проверка гипотез). Методы проверки многомерного нормального распределения на лекциях не затрагивались и являются дополнительным материалом, интересующимся смотреть обзор [Invariant tests for multivariate normality: a critical review](https://link.springer.com/article/10.1007/s00362-002-0119-6)
-- [Слайды лекций](https://github.com/pyoadfe/lectures/raw/master/8-9_ml.pdf) 27 ноября по машинному обучению
-
-## Материалы семинаров
-- Семинар 25 сентября: [конспект по методам оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf)
-- Семинар 18 сентября: [git](https://github.com/pyoadfe/seminars/blob/master/2_git.md), [решение теста, проводившегося на первом занятии 4 сентября](https://github.com/pyoadfe/seminars/blob/master/2_welcome_test_solution.ipynb)
-- [Семинар 11 сентября](https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb): основы `numpy`, чтение и запись текстовых таблиц на примере `CSV` и модуля `pandas`, бинарные форматы на примере `FITS` и `NetCDF`, основы `matplotlib`.
+Скоро здесь будут домашние задания и материалы к семинарам и лекциям.
 
 ## Дополнительные материалы к курсу
 
