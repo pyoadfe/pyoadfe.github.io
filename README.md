@@ -1,5 +1,8 @@
 # Обработка физических данных
 
+## Онлайн-составляющая
+[Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
+
 ### Приветливый тест по питону: [classroom assignment](https://classroom.github.com/a/-qPj90qJ)
 
 Скоро здесь будут домашние задания и материалы к семинарам и лекциям.
