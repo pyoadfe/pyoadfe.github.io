@@ -3,9 +3,24 @@
 ## Онлайн-составляющая
 [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 
+## Практические задания
 ### Приветливый тест по питону: [classroom assignment](https://classroom.github.com/a/-qPj90qJ)
 
-Скоро здесь будут домашние задания и материалы к семинарам и лекциям.
+## Лекции
+
+### 06.09
+Введение: задача и структура курса.
+
+Формула итоговой оценки: 0.3 экзамен + 0.6 практические задания + 0.1 самостоятельные работы. Для получения итоговой оценки выше 7 требуется выролнить онлайн-составялющую курса не менее чем на 80%.
+
+Различные представления данных: табличные и структуированные, текстовые и бинарные. Примеры форматов данных: [HDF](https://support.hdfgroup.org/HDF5/doc/H5.intro.html), [FITS](https://fits.gsfc.nasa.gov/fits_documentation.html), [json](https://json.org), \*SV (CSV, TSV, и т.д.).
+
+О- и Θ- нотация, её использование для оценки времени работы алгоритмов. Лучший алгоритм для решаемой задачи не всегда тот, у которого «лучшее» О.
+
+Методы сортировки: пузырьком, слияниями. *Непрактичные методы сортировки (bogosort), специальные методы сортировки (поразрядная, параллельная).*
+
+*P и NP сложные задачи*
+
 
 ## Дополнительные материалы к курсу
 
@@ -23,7 +38,7 @@
 
 ### Install Python
 
-Remember to use Python 3, 3.5 and later is good enough in 2018. You can check python version typing in console `python3 --version` or `import sys; print(sys.version)` in Python itself
+Remember to use Python 3, 3.5 and later is good enough in 2019. You can check python version typing in console `python3 --version` or `import sys; print(sys.version)` in Python itself
 
 #### All platforms
 - [Anaconda Python distribution](https://www.anaconda.com/download/) is a good choice for scientific Python programming on every platform. It includes a lot of pre-compiled numerical and scientific packages and `conda` package manager where you can find even more packages, like `astropy` or `scikit-learn`
