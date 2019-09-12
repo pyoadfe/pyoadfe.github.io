@@ -6,6 +6,8 @@
 ## Практические задания
 ### Приветливый тест по питону: [classroom assignment](https://classroom.github.com/a/-qPj90qJ)
 
+[Авторское решение](https://github.com/pyoadfe/seminars/blob/master/2_welcome_test_solution.ipynb) приветливого теста по питону в формате блокнота jupyter.
+
 ## Лекции
 
 ### 06.09
