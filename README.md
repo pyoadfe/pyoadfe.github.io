@@ -1,9 +1,11 @@
 # Обработка физических данных
 
-## Онлайн-составляющая
-[Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
+## [Текущая успеваемость](https://docs.google.com/spreadsheets/d/1vDz97gQo4BwihAs9YOOjwkPfIMiGrU0guuuDAC9_Sa8/edit?usp=sharing)
+
+## Онлайн-составляющая: [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 
 ## Практические задания
+
 ### Приветливый тест по питону: [classroom assignment](https://classroom.github.com/a/-qPj90qJ)
 
 [Авторское решение](https://github.com/pyoadfe/seminars/blob/master/2_welcome_test_solution.ipynb) приветливого теста по питону в формате блокнота jupyter.
