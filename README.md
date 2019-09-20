@@ -10,6 +10,8 @@
 
 [Авторское решение](https://github.com/pyoadfe/seminars/blob/master/2_welcome_test_solution.ipynb) приветливого теста по питону в формате блокнота jupyter.
 
+### ДЗ №1 «Озон»: [classroom assignment](https://classroom.github.com/a/v-sEvvWK)
+
 ## Лекции
 
 ### 06.09
