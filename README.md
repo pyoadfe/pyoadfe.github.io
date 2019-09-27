@@ -33,9 +33,16 @@
 Хэш-таблица и хэш-фукнция. Коллизии и парадокс дней рождения. Способы разрешения коллизий: цепочка, *открытая адресация*. Среднее время работы операций поиска, вставки и удаления.
 
 ## Семинары
-### 13.09
- [Тетрадка Jupyter к задаче поиска самого частого элемента списка.](https://github.com/pyoadfe/seminars/blob/master/1_list_vs_dict.ipynb) [Тетрадка Jupyter про `numpy`.](https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb)
+### 06.09
+[Приветливый тест по питону](https://github.com/pyoadfe/welcome_test)
 
+### 13.09
+ [Тетрадка Jupyter к задаче поиска самого частого элемента списка.](https://github.com/pyoadfe/seminars/blob/master/1_list_vs_dict.ipynb)
+ [Тетрадка Jupyter про `numpy`.](https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb)
+
+### 20.09
+[Тетрадка Jupyter про `numpy`, чтение и запись файлов, `matplotlib`.](https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb)
+[Домашнее задание №1 «Озон»](https://github.com/pyoadfe/hw1-o3)
 
 ## Дополнительные материалы к курсу
 
