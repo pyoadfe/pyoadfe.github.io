@@ -44,6 +44,9 @@
 [Тетрадка Jupyter про `numpy`, чтение и запись файлов, `matplotlib`.](https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb)
 [Домашнее задание №1 «Озон»](https://github.com/pyoadfe/hw1-o3)
 
+### 27.09
+NNLS: [6 праграф консппекта по оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf), [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squares).
+
 ## Дополнительные материалы к курсу
 
 ### Python
