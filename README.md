@@ -45,7 +45,8 @@
 [Домашнее задание №1 «Озон»](https://github.com/pyoadfe/hw1-o3)
 
 ### 27.09
-NNLS: [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squares). Метод сопряженных градиентов: [6 параграф консппекта по оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf).
+NNLS: [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squares), [Тетрадка Jupyter](https://github.com/pyoadfe/seminars/blob/master/nnls.ipynb).
+Метод сопряженных градиентов: [6 параграф консппекта по оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf).
 
 ## Дополнительные материалы к курсу
 
