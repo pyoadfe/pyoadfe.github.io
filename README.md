@@ -12,6 +12,8 @@
 
 ### ДЗ №1 «Озон»: [classroom assignment](https://classroom.github.com/a/v-sEvvWK)
 
+### ДЗ №2 «Тьма имеет значение»: [classroom assignment](https://classroom.github.com/a/HtogelgG)
+
 ## Лекции
 
 ### 06.09
