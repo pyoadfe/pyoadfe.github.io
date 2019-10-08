@@ -48,7 +48,10 @@
 
 ### 27.09
 NNLS: [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squares), [Тетрадка Jupyter](https://github.com/pyoadfe/seminars/blob/master/nnls.ipynb).
-Метод сопряженных градиентов: [6 параграф консппекта по оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf).
+
+### 04.10 / 08.10
+[Домашнее задание №2 «Тьма имеет значение»](https://github.com/pyoadfe/hw2-darkmatter), [консппект по оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf).
+
 
 ## Дополнительные материалы к курсу
 
