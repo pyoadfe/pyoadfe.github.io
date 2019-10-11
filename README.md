@@ -52,6 +52,9 @@ NNLS: [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squa
 ### 04.10 / 08.10
 [Домашнее задание №2 «Тьма имеет значение»](https://github.com/pyoadfe/hw2-darkmatter), [консппект по оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf).
 
+### 11.10
+Метод главных компонент (PCA). Наборы данных: [озон](https://github.com/pyoadfe/seminars/raw/master/ozon.npy), [эмодзи](https://github.com/pyoadfe/seminars/raw/master/emoji.zip). См. Википедию про [PCA](https://ru.wikipedia.org/wiki/Метод_главных_компонент) и [собственное лицо](https://en.wikipedia.org/wiki/Eigenface).
+
 
 ## Дополнительные материалы к курсу
 
