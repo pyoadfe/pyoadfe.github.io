@@ -53,8 +53,10 @@ NNLS: [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squa
 [Домашнее задание №2 «Тьма имеет значение»](https://github.com/pyoadfe/hw2-darkmatter), [консппект по оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf).
 
 ### 11.10
-Метод главных компонент (PCA). Наборы данных: [озон](https://github.com/pyoadfe/seminars/raw/master/ozon.npy), [эмодзи](https://github.com/pyoadfe/seminars/raw/master/emoji.zip). См. Википедию про [PCA](https://ru.wikipedia.org/wiki/Метод_главных_компонент) и [собственное лицо](https://en.wikipedia.org/wiki/Eigenface).
+Метод главных компонент (PCA). Наборы данных: [озон](https://github.com/pyoadfe/seminars/raw/master/ozon.npy), [эмодзи](https://github.com/pyoadfe/seminars/raw/master/emoji.zip). [Скрипт](https://github.com/pyoadfe/seminars/blob/master/pca.py), написанный на семинаре. См. Википедию про [PCA](https://ru.wikipedia.org/wiki/Метод_главных_компонент) и [собственное лицо](https://en.wikipedia.org/wiki/Eigenface).
 
+### 18.10
+[Домашнее задание №3 «Двойное скопление»](https://github.com/pyoadfe/hw3-double-cluster). [Тетрадка Jupyter](https://github.com/pyoadfe/seminars/blob/master/em-basics.ipynb). См. Википедию про [EM](https://en.wikipedia.org/wiki/Expectation–maximization_algorithm).
 
 ## Дополнительные материалы к курсу
 
