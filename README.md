@@ -58,7 +58,7 @@ NNLS: [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squa
 Метод главных компонент (PCA). Наборы данных: [озон](https://github.com/pyoadfe/seminars/raw/master/ozon.npy), [эмодзи](https://github.com/pyoadfe/seminars/raw/master/emoji.zip). [Скрипт](https://github.com/pyoadfe/seminars/blob/master/pca.py), написанный на семинаре. См. Википедию про [PCA](https://ru.wikipedia.org/wiki/Метод_главных_компонент) и [собственное лицо](https://en.wikipedia.org/wiki/Eigenface).
 
 ### 18.10
-[Домашнее задание №3 «Двойное скопление»](https://github.com/pyoadfe/hw3-double-cluster). [Тетрадка Jupyter](https://github.com/pyoadfe/seminars/blob/master/em-basics.ipynb). См. Википедию про [EM](https://en.wikipedia.org/wiki/Expectation–maximization_algorithm).
+[Домашнее задание №3 «Двойное скопление»](https://github.com/pyoadfe/hw3-double-cluster). [Тетрадка Jupyter](https://github.com/pyoadfe/seminars/blob/master/em-basics.ipynb). См. Википедию про [EM](https://en.wikipedia.org/wiki/Expectation–maximization_algorithm). [Лекция про EM на Курсере](https://www.coursera.org/lecture/unsupervised-learning/expectation-maximization-em-alghoritm-2jhbI)
 
 ## Дополнительные материалы к курсу
 
