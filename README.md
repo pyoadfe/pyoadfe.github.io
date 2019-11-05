@@ -16,6 +16,8 @@
 
 ### ДЗ №3 «Двойное скопление»: [classroom assignment](https://classroom.github.com/a/iYDasG3A) (**дедлайн 7.11.2019 23:55**)
 
+### Контрольная по Git: [classroom assignment](https://classroom.github.com/a/_sgvrr1i) (**дедлайн 5.11.2019 20:00**)
+
 ## Лекции
 
 ### 06.09
