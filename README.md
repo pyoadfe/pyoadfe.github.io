@@ -70,6 +70,9 @@ NNLS: [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squa
 ### 18.10
 [Домашнее задание №3 «Двойное скопление»](https://github.com/pyoadfe/hw3-double-cluster). [Тетрадка Jupyter](https://github.com/pyoadfe/seminars/blob/master/em-basics.ipynb). См. Википедию про [EM](https://en.wikipedia.org/wiki/Expectation–maximization_algorithm). [Лекция про EM на Курсере](https://www.coursera.org/lecture/unsupervised-learning/expectation-maximization-em-alghoritm-2jhbI)
 
+### 22.11
+[Файл с погодой в Элисте](https://github.com/pyoadfe/seminars/raw/master/weather.csv.gz)
+
 ## Дополнительные материалы к курсу
 
 ### Python
