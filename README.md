@@ -73,6 +73,9 @@ NNLS: [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squa
 ### 22.11
 [Файл с погодой в Элисте](https://github.com/pyoadfe/seminars/raw/master/weather.csv.gz)
 
+### 29.11
+[Домашнее задание №5 «Лес галактик»](https://github.com/pyoadfe/hw5-tree). [Пример реализации решающего дерева](https://github.com/pyoadfe/seminars/blob/master/decision_tree.py)
+
 ## Дополнительные материалы к курсу
 
 ### Python
