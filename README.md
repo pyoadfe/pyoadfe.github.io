@@ -18,6 +18,8 @@
 
 ### ДЗ №4 «Межзвездный WiFi»: [classroom assignment](https://classroom.github.com/a/wTHbys0O) (**дедлайн 28.11.2019 23:55**)
 
+### ДЗ №5 «Галактический лес»: [classroom assignment](https://classroom.github.com/a/7gYIOIoO) (**дедлайн 12.12.2019 23:55**)
+
 ### Контрольная по Git: [classroom assignment](https://classroom.github.com/a/_sgvrr1i) (**дедлайн 5.11.2019 20:00**)
 
 ## Лекции
