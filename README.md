@@ -62,6 +62,9 @@
 ### 29.11
 k-мерное дерево поиска. Решающее дерево. Ансамбли решающих деревьев и их модификаций: бэггинг, random forest, ExtraTrees.
 
+### 13.12
+Введение в машинное обучение. [Слайды](https://github.com/pyoadfe/lectures/raw/master/8-9_ml.pdf)
+
 ## Семинары
 ### 06.09
 [Приветливый тест по питону](https://github.com/pyoadfe/welcome_test)
@@ -91,6 +94,9 @@ NNLS: [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squa
 
 ### 29.11
 [Домашнее задание №5 «Лес галактик»](https://github.com/pyoadfe/hw5-tree). [Пример реализации решающего дерева](https://github.com/pyoadfe/seminars/blob/master/decision_tree.py)
+
+### 6.12-13.12
+Методы машинного обучения, построенные на решающих деревьях
 
 ## Дополнительные материалы к курсу
 
