@@ -1,102 +1,14 @@
-# Обработка физических данных
+# Обработка и анализ данных физического эксперимента 2020/2021
 
-## [Текущая успеваемость](https://docs.google.com/spreadsheets/d/1vDz97gQo4BwihAs9YOOjwkPfIMiGrU0guuuDAC9_Sa8/edit?usp=sharing)
+## [Текущая успеваемость](https://docs.google.com/spreadsheets/d/1lRdvAbSuWK2wrL-w-jgJe3SrstLy-w7MEAeW7-BXRak/edit?usp=sharing)
 
 ## Онлайн-составляющая: [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 
 ## Практические задания
 
-### Приветливый тест по питону: [classroom assignment](https://classroom.github.com/a/-qPj90qJ)
-
-[Авторское решение](https://github.com/pyoadfe/seminars/blob/master/2_welcome_test_solution.ipynb) приветливого теста по питону в формате блокнота jupyter.
-
-### ДЗ №1 «Озон»: [classroom assignment](https://classroom.github.com/a/v-sEvvWK)
-
-### ДЗ №2 «Тьма имеет значение»: [classroom assignment](https://classroom.github.com/a/HtogelgG) (**дедлайн 21.10.2019 23:55**)
-
-### ДЗ №3 «Двойное скопление»: [classroom assignment](https://classroom.github.com/a/iYDasG3A) (**дедлайн 7.11.2019 23:55**)
-
-### ДЗ №4 «Межзвездный WiFi»: [classroom assignment](https://classroom.github.com/a/wTHbys0O) (**дедлайн 28.11.2019 23:55**)
-
-### ДЗ №5 «Галактический лес»: [classroom assignment](https://classroom.github.com/a/7gYIOIoO) (**дедлайн 12.12.2019 23:55**)
-
-### Контрольная по Git: [classroom assignment](https://classroom.github.com/a/_sgvrr1i) (**дедлайн 5.11.2019 20:00**)
-
-### Предворительный [список вопросов к экзамену](https://github.com/pyoadfe/lectures/raw/master/exam-questions.pdf)
-
 ## Лекции
 
-### 06.09
-Введение: задача и структура курса.
-
-Формула итоговой оценки: 0.3 экзамен + 0.6 практические задания + 0.1 самостоятельные работы. Для получения итоговой оценки выше 7 требуется выролнить онлайн-составялющую курса не менее чем на 80%.
-
-Различные представления данных: табличные и структуированные, текстовые и бинарные. Примеры форматов данных: [HDF](https://support.hdfgroup.org/HDF5/doc/H5.intro.html), [FITS](https://fits.gsfc.nasa.gov/fits_documentation.html), [json](https://json.org), \*SV (CSV, TSV, и т.д.).
-
-О- и Θ- нотация, её использование для оценки времени работы алгоритмов. Лучший алгоритм для решаемой задачи не всегда тот, у которого «лучшее» О.
-
-Методы сортировки: пузырьком, слияниями. *Непрактичные методы сортировки (bogosort), специальные методы сортировки (поразрядная, параллельная).*
-
-*P и NP сложные задачи*
-
-### 13.09
-Деревья как структура данных. Бинарные деревья, деревья поиска. Названия узлов, глубина дерева. Среднее время работы операций поиска, вставки и удаления в сбалансированном бинарном дереве поиска. K-мерное дерево. *Балансировка бинарного дерева поиска. B-дерево.*
-
-Хэш-таблица и хэш-фукнция. Коллизии и парадокс дней рождения. Способы разрешения коллизий: цепочка, *открытая адресация*. Среднее время работы операций поиска, вставки и удаления.
-
-### 18.10
-Метод максимального правдоподобия. Метод максимального математического ожидания правдоподобия. См. Википедию про [EM](https://en.wikipedia.org/wiki/Expectation–maximization_algorithm). [Лекция про EM на Курсере](https://www.coursera.org/lecture/unsupervised-learning/expectation-maximization-em-alghoritm-2jhbI)
-
-### 01.11
-Линейная регрессия: метод наименьших квадратов, его статистические свойства. Рекомендуемая литература: [Linear Models And Generalizations](https://www.springer.com/gp/book/9783540742265) (линейная регрессия: МНК и правдоподобие), [Вероятность и статистика в примерах и задачах. Том I. Основные понятия теории вероятностей и математической статистики](http://biblio.mccme.ru/node/2362) (линейная регрессия, МНК, правдоподобия, проверка гипотез).
-
-### 08.11
-Оптимальная фильтрация. Преобразование Фурье, его связь со сверткой. Теорема Винера—Хинчина.
-
-### 15.11
-Проверка гипотез. Ошибки первого и второго рода. t-критерий Стьюдента. Рекомендуемая литература: [Вероятность и статистика в примерах и задачах. Том I. Основные понятия теории вероятностей и математической статистики](http://biblio.mccme.ru/node/2362) (линейная регрессия, МНК, правдоподобия, проверка гипотез). Методы проверки многомерного нормального распределения на лекциях не затрагивались и являются дополнительным материалом, интересующимся смотреть обзор [Invariant tests for multivariate normality: a critical review](https://link.springer.com/article/10.1007/s00362-002-0119-6)
-
-### 22.11
-Критерий Колмогорова—Смирнова, критерий Пирсона. Стохастические процессы, стационарные процессы. Автокорреляция, автоковариация. Линейные стохастические процессы, процесс авторегрессии, процесс скользяшего среднего.
-
-### 29.11
-k-мерное дерево поиска. Решающее дерево. Ансамбли решающих деревьев и их модификаций: бэггинг, random forest, ExtraTrees.
-
-### 13.12
-Введение в машинное обучение. [Слайды](https://github.com/pyoadfe/lectures/raw/master/8-9_ml.pdf)
-
 ## Семинары
-### 06.09
-[Приветливый тест по питону](https://github.com/pyoadfe/welcome_test)
-
-### 13.09
- [Тетрадка Jupyter к задаче поиска самого частого элемента списка.](https://github.com/pyoadfe/seminars/blob/master/1_list_vs_dict.ipynb)
- [Тетрадка Jupyter про `numpy`.](https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb)
-
-### 20.09
-[Тетрадка Jupyter про `numpy`, чтение и запись файлов, `matplotlib`.](https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb)
-[Домашнее задание №1 «Озон»](https://github.com/pyoadfe/hw1-o3)
-
-### 27.09
-NNLS: [Википедия](https://en.wikipedia.org/wiki/Non-negative_least_squares), [Тетрадка Jupyter](https://github.com/pyoadfe/seminars/blob/master/nnls.ipynb).
-
-### 04.10 / 08.10
-[Домашнее задание №2 «Тьма имеет значение»](https://github.com/pyoadfe/hw2-darkmatter), [консппект по оптимизации](https://github.com/pyoadfe/seminars/blob/master/3/nonlinear_ls.pdf).
-
-### 11.10
-Метод главных компонент (PCA). Наборы данных: [озон](https://github.com/pyoadfe/seminars/raw/master/ozon.npy), [эмодзи](https://github.com/pyoadfe/seminars/raw/master/emoji.zip). [Скрипт](https://github.com/pyoadfe/seminars/blob/master/pca.py), написанный на семинаре. См. Википедию про [PCA](https://ru.wikipedia.org/wiki/Метод_главных_компонент) и [собственное лицо](https://en.wikipedia.org/wiki/Eigenface).
-
-### 18.10
-[Домашнее задание №3 «Двойное скопление»](https://github.com/pyoadfe/hw3-double-cluster). [Тетрадка Jupyter](https://github.com/pyoadfe/seminars/blob/master/em-basics.ipynb). См. Википедию про [EM](https://en.wikipedia.org/wiki/Expectation–maximization_algorithm). [Лекция про EM на Курсере](https://www.coursera.org/lecture/unsupervised-learning/expectation-maximization-em-alghoritm-2jhbI)
-
-### 22.11
-[Файл с погодой в Элисте](https://github.com/pyoadfe/seminars/raw/master/weather.csv.gz)
-
-### 29.11
-[Домашнее задание №5 «Лес галактик»](https://github.com/pyoadfe/hw5-tree). [Пример реализации решающего дерева](https://github.com/pyoadfe/seminars/blob/master/decision_tree.py)
-
-### 6.12-13.12
-Методы машинного обучения, построенные на решающих деревьях
 
 ## Дополнительные материалы к курсу
 
@@ -131,7 +43,6 @@ Probably you already have Python 3, check its version before start. If you haven
 - [Visual Studio Code](https://code.visualstudio.com) (do not be confused with Visual Studio, they are two different products): a powerful source code editor
 - [Spyder](https://www.spyder-ide.org): the scientific Python development environment
 - [PyCharm](https://www.jetbrains.com/pycharm/): a powerful Python IDE (integrated development environment). PyCharm is closed source product, but Community edition is free to use and every student and professor can ask for a [free professional version](https://www.jetbrains.com/student/)
-
 
 ### Git
 
