@@ -4,6 +4,14 @@
 
 ## Онлайн-составляющая: [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 
+## На время дистанционных занятий мы занимаемся в Teams:
+
+- [Лекции](https://teams.microsoft.com/l/channel/19%3a2ea58a1ff9c64f0b906ec028b6286e93%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D0%25B8%25D0%25B8?groupId=0ee2471c-9602-441d-aead-187ce02a6d97&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f)
+- [Семинары БФ3191](https://teams.microsoft.com/l/channel/19%3a210d2afdd81044a5ac677a271f4c6618%40thread.tacv2/%25D0%25A1%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25BD%25D0%25B0%25D1%2580%25D1%258B%2520%25D0%2591%25D0%25A43191%2520%28%25D1%2584%25D0%25B8%25D0%25B7_%25D0%25BF%25D0%25B31%29?groupId=0ee2471c-9602-441d-aead-187ce02a6d97&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f)
+- [Семинары БФ3192](https://teams.microsoft.com/l/channel/19%3a6a7ed19435c14464960e7fc3b6b71517%40thread.tacv2/%25D0%25A1%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25BD%25D0%25B0%25D1%2580%25D1%258B%2520%25D0%2591%25D0%25A43192%2520%28%25D1%2584%25D0%25B8%25D0%25B7_%25D0%25BF%25D0%25B32%29?groupId=0ee2471c-9602-441d-aead-187ce02a6d97&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f)
+- [Семинары БФ3193](https://teams.microsoft.com/l/channel/19%3a3713b4a9938e418a970a617208cf6968%40thread.tacv2/%25D0%25A1%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25BD%25D0%25B0%25D1%2580%25D1%258B%2520%25D0%2591%25D0%25A43193%2520%28%25D1%2584%25D0%25B8%25D0%25B7_%25D0%25BF%25D0%25B33%29?groupId=0ee2471c-9602-441d-aead-187ce02a6d97&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f)
+- [Семинары БФ3194](https://teams.microsoft.com/l/channel/19%3a52ba928565ab44d28f64c38614be3ee8%40thread.tacv2/%25D0%25A1%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25BD%25D0%25B0%25D1%2580%25D1%258B%2520%25D0%2591%25D0%25A43194%2520%28%25D1%2584%25D0%25B8%25D0%25B7_%25D0%25BF%25D0%25B34%29?groupId=0ee2471c-9602-441d-aead-187ce02a6d97&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f)
+
 ## Практические задания
 
 ## Лекции
