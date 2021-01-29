@@ -15,6 +15,7 @@
 ## Практические задания
 
 - [Тест по питону](https://classroom.github.com/a/PkM1Xa1a)
+- [Домашнее задание 1](https://classroom.github.com/a/MwpFi6NW)
 
 ## Лекции
 
