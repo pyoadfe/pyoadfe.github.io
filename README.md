@@ -17,6 +17,7 @@
 - [Тест по питону](https://classroom.github.com/a/PkM1Xa1a)
 - [Домашнее задание 1](https://classroom.github.com/a/MwpFi6NW)
 - [Домашнее задание 2](https://classroom.github.com/a/vW9SxmhR)
+- [Самостоятельная работа 1](https://classroom.github.com/a/dLJ2NrTX)
 
 ## Лекции
 
@@ -85,7 +86,8 @@
 
 ### 19.02
 
-Разбирали алгоритм NNLS и коррелировали содержание озона в атмосфере с активностью Солнца.
+Разбирали алгоритм NNLS.
+Коррелировали содержание озона в атмосфере с активностью Солнца.
 
 - [Конспект по алгоритму NNLS](https://github.com/pyoadfe/seminars/blob/master/nnls.ipynb)
 
