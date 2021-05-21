@@ -132,6 +132,19 @@
 
 Разбирали EM-алгоритм.
 
+### 16.04
+
+### 23.04
+
+### 30.04
+
+### 14.05
+
+ - [Класс решающего дерева](https://raw.githubusercontent.com/pyoadfe/seminars/master/decision_tree.py)
+
+### 21.05
+
+ - [Блокнот с автокодировщиком](https://github.com/pyoadfe/seminars/blob/master/autoencoder.ipynb)
 
 ## Дополнительные материалы к курсу
 
