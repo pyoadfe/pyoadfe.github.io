@@ -84,6 +84,8 @@
 
 ### 18.05 "Машинное обучение"
 - [Слайды к лекции](https://yadi.sk/i/eXStuUJRwZbl-g)
+- [Запись лекции 1](https://yadi.sk/i/ildsbmt6sddoAQ)
+- [Запись лекции 2](https://yadi.sk/i/XNcqu0MspZolBA)
 
 ## Семинары
 
