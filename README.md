@@ -4,6 +4,8 @@
 
 ## Онлайн-составляющая: [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 
+## [Список вопросов к экзамену](https://github.com/pyoadfe/lectures/raw/master/exam-questions.pdf)
+
 ## На время дистанционных занятий мы занимаемся в Teams:
 
 - [Лекции](https://teams.microsoft.com/l/channel/19%3a2ea58a1ff9c64f0b906ec028b6286e93%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D0%25B8%25D0%25B8?groupId=0ee2471c-9602-441d-aead-187ce02a6d97&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f)
