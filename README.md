@@ -7,7 +7,6 @@
 ## Онлайн-составляющая: [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 
 ## Практические задания
-
 - [Тест по питону](https://classroom.github.com/a/e1FPT_xl)
 
 ## Лекции
