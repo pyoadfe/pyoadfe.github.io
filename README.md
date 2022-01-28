@@ -8,6 +8,7 @@
 
 ## Практические задания
 - [Тест по питону](https://classroom.github.com/a/e1FPT_xl)
+- [Домашнее задание «Озон»](https://classroom.github.com/a/nAHhA_mo)
 
 ## Лекции
 
