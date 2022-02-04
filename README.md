@@ -30,6 +30,21 @@ NP-задачи, «задача о рюкзаке», проблема P≠NP.
 Сбалансированные бинарные деревья поиска. Многомерные kd-деревья. Ассоциативный массив (словарь).
 Хеш-таблицы. Хеш-функции. Коллизии и методы их устранения.
 
+### 04.02
+Распространённые форматы хранения данных. Сервера управления базами данных и реляционная алгебра.
+
+## Семинары
+
+### 28.01
+Дополнительные материалы:
+ * [https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb](Блокнот с numpy)
+ * [https://github.com/pyoadfe/seminars/blob/master/1_list_vs_dict.ipynb](Задачка про подсчёт слов)
+
+### 04.02
+Дополнительные материалы:
+ * [https://github.com/pyoadfe/seminars/blob/master/oop.ipynb](Блокнот с ООП)
+ * [https://github.com/pyoadfe/seminars/blob/master/pandas.ipynb](Блокнот с pandas)
+
 ## Дополнительные материалы к курсу
 
 ### Python
