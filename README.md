@@ -37,13 +37,13 @@ NP-задачи, «задача о рюкзаке», проблема P≠NP.
 
 ### 28.01
 Дополнительные материалы:
- * [https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb](Блокнот с numpy)
- * [https://github.com/pyoadfe/seminars/blob/master/1_list_vs_dict.ipynb](Задачка про подсчёт слов)
+ * [Блокнот с numpy и чтением данных](https://github.com/pyoadfe/seminars/blob/master/1_tables.ipynb)
+ * [Задачка про подсчёт слов](https://github.com/pyoadfe/seminars/blob/master/1_list_vs_dict.ipynb)
 
 ### 04.02
 Дополнительные материалы:
- * [https://github.com/pyoadfe/seminars/blob/master/oop.ipynb](Блокнот с ООП)
- * [https://github.com/pyoadfe/seminars/blob/master/pandas.ipynb](Блокнот с pandas)
+ * [Блокнот с ООП](https://github.com/pyoadfe/seminars/blob/master/oop.ipynb)
+ * [Блокнот с pandas](https://github.com/pyoadfe/seminars/blob/master/pandas.ipynb)
 
 ## Дополнительные материалы к курсу
 
