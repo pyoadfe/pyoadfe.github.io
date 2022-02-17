@@ -49,6 +49,10 @@ NP-задачи, «задача о рюкзаке», проблема P≠NP.
  * [Блокнот с ООП](https://github.com/pyoadfe/seminars/blob/master/oop.ipynb)
  * [Блокнот с pandas](https://github.com/pyoadfe/seminars/blob/master/pandas.ipynb)
 
+## 11.02
+Дополнительные материалы:
+ * [Блокнот про регуляризацию](https://github.com/pyoadfe/seminars/blob/master/7_ill_posed.ipynb)
+
 ## Дополнительные материалы к курсу
 
 ### Python
