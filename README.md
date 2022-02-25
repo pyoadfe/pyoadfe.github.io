@@ -10,6 +10,7 @@
 - [Тест по питону](https://classroom.github.com/a/e1FPT_xl)
 - [Домашнее задание «Озон»](https://classroom.github.com/a/nAHhA_mo)
 - [Домашнее задание «МНК»](https://classroom.github.com/a/qF8huII0)
+- [Домашнее задание «Тёмная энергия»](https://classroom.github.com/a/0Nbn6gG9)
 
 ## Лекции
 
@@ -52,6 +53,10 @@ NP-задачи, «задача о рюкзаке», проблема P≠NP.
 ### 11.02
 Дополнительные материалы:
  * [Блокнот про регуляризацию](https://github.com/pyoadfe/seminars/blob/master/7_ill_posed.ipynb)
+
+### 25.02
+Дополнительные материалы:
+ * [Конспект по методам оптимизации](https://raw.githubusercontent.com/pyoadfe/seminars/master/3/nonlinear_ls.pdf)
 
 ## Дополнительные материалы к курсу
 
