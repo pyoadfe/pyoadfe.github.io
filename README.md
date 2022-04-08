@@ -13,6 +13,7 @@
 - [Домашнее задание «Тёмная энергия»](https://classroom.github.com/a/0Nbn6gG9)
 - [Самостоятельная работа](https://classroom.github.com/a/0m-QZF_d)
 - [Контрольная работа «Git»](https://classroom.github.com/a/T-mSBYhz)
+- [Домашнее задание «Звёздные скопления»](https://classroom.github.com/a/QOD3naFf)
 
 ## Лекции
 
