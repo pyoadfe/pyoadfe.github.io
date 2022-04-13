@@ -68,6 +68,10 @@ NP-задачи, «задача о рюкзаке», проблема P≠NP.
 Дополнительные материалы:
  * [Конспект по методам оптимизации](https://raw.githubusercontent.com/pyoadfe/seminars/master/3/nonlinear_ls.pdf)
 
+### 08.04
+Дополнительные материалы:
+ * [Блокнот про em алгоритм](https://github.com/pyoadfe/seminars/blob/master/em.ipynb)
+
 ## Дополнительные материалы к курсу
 
 ### Python
