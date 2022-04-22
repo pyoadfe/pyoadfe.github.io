@@ -14,6 +14,7 @@
 - [Самостоятельная работа](https://classroom.github.com/a/0m-QZF_d)
 - [Контрольная работа «Git»](https://classroom.github.com/a/T-mSBYhz)
 - [Домашнее задание «Звёздные скопления»](https://classroom.github.com/a/QOD3naFf)
+- [Домашнее задание «WiFi»](https://classroom.github.com/a/cwJgGZjO)
 
 ## Лекции
 
