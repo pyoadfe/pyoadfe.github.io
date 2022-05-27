@@ -4,6 +4,8 @@
 
 ## [«Упрощённая» программа курса](https://drive.google.com/file/d/1O1OIo2LqlTYdqpBWnXI1It-zoP8qkLwE/view?usp=sharing)
 
+## [Список вопросов к экзамену](https://github.com/pyoadfe/lectures/raw/master/exam-questions.pdf)
+
 ## Онлайн-составляющая: [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 
 ## Практические задания
@@ -80,6 +82,9 @@ NP-задачи, «задача о рюкзаке», проблема P≠NP.
 
 ### 20.05
 Деревья принятия решений. Случайный лес.
+
+### 27.05
+Изолирующий лес. Градиентный бустинг.
 
 ## Семинары
 
