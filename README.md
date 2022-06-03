@@ -18,6 +18,7 @@
 - [Домашнее задание «Звёздные скопления»](https://classroom.github.com/a/QOD3naFf)
 - [Домашнее задание «WiFi»](https://classroom.github.com/a/cwJgGZjO)
 - [Домашнее задание «Галактики»](https://classroom.github.com/a/vStKMGu6)
+- [Бонусное (необязательно) домашнее задание «Частицы»](https://classroom.github.com/a/XUAcHbV9)
 
 ## Лекции
 
