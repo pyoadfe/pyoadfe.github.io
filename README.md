@@ -89,7 +89,7 @@ NP-задачи, «задача о рюкзаке», проблема P≠NP.
 
 ### 07.06
 Машинное обучение.
-- [Запись лекции](https://disk.hse.ru/index.php/s/G9tbwEBQXZKYzdF)
+- [Запись лекции](https://disk.yandex.ru/i/XKw5Z4gP8IvFZg)
 
 ## Семинары
 
