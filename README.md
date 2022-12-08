@@ -129,6 +129,7 @@ NP-задачи, «задача о рюкзаке», проблема P≠NP.
 - `ru` [Курс Вышки на Coursera](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
 - `ru` [Курс на Stepik](https://stepik.org/course/67/)
 - [Курс на Codeacademy](https://www.codecademy.com/learn/learn-python-3)
+- [Учебник по программированию на Python](https://www.scaler.com/topics/python/) — Изучите интерактивное руководство по Python с примерами
 - [Официальный туториал по языку](https://docs.python.org/3/tutorial/index.html) — очень хороший материал для последовательного изучения языка
 - `ru` [Изучите Python за Y минут](https://learnxinyminutes.com/docs/ru-ru/python3-ru/) — хороший туториал для быстрого погружения в язык, требуется уверенное владение другим языком программирования
 - [Игра для тех, кто уже освоил азы Python](https://py.checkio.org)
