@@ -56,3 +56,4 @@ Probably you already have Python 3, check its version before start. If you haven
 - [Bitbucket tutorials](https://www.atlassian.com/git/tutorials) — руководства по использованию Git на сайте Bitbucket, сервиса-конкрента GitHub
 - [A Quick Introduction to Version Control with Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
 - ["Commits are snapshots, not diffs"](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs) — как Git хранит данные. Заметка, рассказывающая о внутренностях Git с точки зрения структур данных.
+- ["GitHub Desktop"](https://desktop.github.com/) — графический интерфейс для GitHub
