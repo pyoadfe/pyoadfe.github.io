@@ -16,6 +16,9 @@
 
 ## Семинары
 
+### 13.01
+Приветливый тест по питону. [Возможный вариант решения](https://github.com/pyoadfe/seminars/blob/master/welcome_test/welcome_test_solution.ipynb)
+
 ## Дополнительные материалы к курсу
 
 ### Python
