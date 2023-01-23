@@ -14,10 +14,18 @@
 ### 13.01
 Введение. Понятие "алгоритм", введение в анализ алгоритмов. O-нотация. Примеры, когда лучшая асимптотическая сложность не значит быстрее.
 
+### 20.01
+Теория алгоритмов. Понятие об NP-полных задачах. Структуры данных. Массив. Список.
+
 ## Семинары
 
 ### 13.01
 Приветливый тест по питону. [Возможный вариант решения](https://github.com/pyoadfe/seminars/blob/master/welcome_test/welcome_test_solution.ipynb)
+
+### 20.01
+ * [Шпаргалка по `numpy` и чтению файлов](https://github.com/pyoadfe/seminars/blob/master/numpy/numpy.ipynb)
+ * [Шпаргалка по `pandas`](https://github.com/pyoadfe/seminars/blob/master/numpy/pandas.ipynb)
+
 
 ## Дополнительные материалы к курсу
 
