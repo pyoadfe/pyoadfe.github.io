@@ -18,6 +18,9 @@
 ### 20.01
 Теория алгоритмов. Понятие об NP-полных задачах. Структуры данных. Массив. Список.
 
+### 27.01
+Двоичные деревья поиска. АВЛ-деревья. Таблица прямой адресации. Хеш-функция. Хеш-таблица.
+
 ## Семинары
 
 ### 13.01
@@ -27,6 +30,8 @@
  * [Шпаргалка по `numpy` и чтению файлов](https://github.com/pyoadfe/seminars/blob/master/numpy/numpy.ipynb)
  * [Шпаргалка по `pandas`](https://github.com/pyoadfe/seminars/blob/master/numpy/pandas.ipynb)
 
+### 27.01
+ * [Задачка про число слов](https://github.com/pyoadfe/seminars/blob/master/list_vs_dict/list_vs_dict.ipynb)
 
 ## Дополнительные материалы к курсу
 
