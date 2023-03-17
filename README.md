@@ -11,6 +11,7 @@
 - [Домашнее задание 1](https://classroom.github.com/a/I6yS97C3)
 - [Домашнее задание 2](https://classroom.github.com/a/rI-q7mus)
 - [Домашнее задание 3](https://classroom.github.com/a/8l88uAXj)
+- [Самостоятельная работа 1](https://classroom.github.com/a/n3YcHJ4X)
 
 ## Лекции
 
