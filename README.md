@@ -13,7 +13,7 @@
 - [Домашнее задание 3](https://classroom.github.com/a/8l88uAXj)
 - [Самостоятельная работа 1](https://classroom.github.com/a/n3YcHJ4X)
 - Контрольная по онлайн-составляющей будет 28.03 в 11.10:
-  - Ссылка на работу появится в это время.
+  - [Ссылка на задание](https://classroom.github.com/a/BjmHAO9s)
   - [Ссылка на видео-встречу](https://telemost.yandex.ru/j/67421920856519)
 
 ## Лекции
