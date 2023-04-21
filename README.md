@@ -16,6 +16,7 @@
   - [Ссылка на задание](https://classroom.github.com/a/BjmHAO9s)
   - [Ссылка на видео-встречу](https://telemost.yandex.ru/j/67421920856519)
 - [Домашнее задание 4](https://classroom.github.com/a/qPjGOCCr)
+- [Домашнее задание 5](https://classroom.github.com/a/6jwv1UcI)
 
 ## Лекции
 
