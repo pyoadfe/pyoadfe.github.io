@@ -69,6 +69,10 @@
 
 ## Дополнительные материалы к курсу
 
+### Независимый экзамен
+- [Учебник Базовый уровень](https://edu.hse.ru/course/view.php?id=136232)
+- [Подготовка к НЭ базовый уровень](https://edu.hse.ru/course/view.php?id=133381)
+
 ### Python
 
 - `ru` [Интерактивный учебник по Python](https://snakify.org/ru/)
