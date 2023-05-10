@@ -13,8 +13,10 @@
 - [Домашнее задание 3](https://classroom.github.com/a/8l88uAXj)
 - [Самостоятельная работа 1](https://classroom.github.com/a/n3YcHJ4X)
 - Контрольная по онлайн-составляющей будет 28.03 в 11.10:
-  - Ссылка на работу появится в это время.
+  - [Ссылка на задание](https://classroom.github.com/a/BjmHAO9s)
   - [Ссылка на видео-встречу](https://telemost.yandex.ru/j/67421920856519)
+- [Домашнее задание 4](https://classroom.github.com/a/qPjGOCCr)
+- [Домашнее задание 5](https://classroom.github.com/a/6jwv1UcI)
 
 ## Лекции
 
@@ -113,5 +115,6 @@ Probably you already have Python 3, check its version before start. If you haven
 - `ru` [Git Book](https://git-scm.com/book/ru/v2) — официальный учебник по Git, тоже про командную строку
 - [Bitbucket tutorials](https://www.atlassian.com/git/tutorials) — руководства по использованию Git на сайте Bitbucket, сервиса-конкрента GitHub
 - [A Quick Introduction to Version Control with Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
+- [Введение в Git от компании Selectel](https://selectel.ru/blog/courses/introduction-to-git/)
 - ["Commits are snapshots, not diffs"](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs) — как Git хранит данные. Заметка, рассказывающая о внутренностях Git с точки зрения структур данных.
 - ["GitHub Desktop"](https://desktop.github.com/) — графический интерфейс для GitHub
