@@ -18,6 +18,7 @@
 - [Домашнее задание 4](https://classroom.github.com/a/qPjGOCCr)
 - [Домашнее задание 5](https://classroom.github.com/a/6jwv1UcI)
 - [Домашнее задание 6](https://classroom.github.com/a/9iBFvrYE)
+- [Самостоятельная работа 2](https://classroom.github.com/a/8BxejzXe)
 
 ## Лекции
 
