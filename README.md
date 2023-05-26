@@ -19,6 +19,7 @@
 - [Домашнее задание 5](https://classroom.github.com/a/6jwv1UcI)
 - [Домашнее задание 6](https://classroom.github.com/a/9iBFvrYE)
 - [Самостоятельная работа 2](https://classroom.github.com/a/8BxejzXe)
+- [Домашнее задание 7](https://classroom.github.com/a/6UnCuonK)
 
 ## Лекции
 
@@ -81,6 +82,9 @@
 
 ### 24.03
  * [Конспект по плохо обусловленным задачам](https://github.com/pyoadfe/seminars/blob/master/ill_posed/ill_posed.ipynb)
+
+### 26.05
+ * [Блокнот с частицами](https://github.com/pyoadfe/seminars/blob/master/particles/particles.ipynb)
 
 ## Дополнительные материалы к курсу
 
