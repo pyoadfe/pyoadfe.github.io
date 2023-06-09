@@ -6,7 +6,7 @@
 
 ## Онлайн-составляющая: [Version Control with Git](https://stepik.org/course/2159/promo#toc)
 
-## [Вопросы к экзамену](https://github.com/pyoadfe/lectures/blob/master/exam-questions.pdf)
+## [Вопросы к экзамену](https://github.com/pyoadfe/lectures/raw/master/exam-questions.pdf)
 
 ## Практические задания
 - [Тест по питону](https://classroom.github.com/a/pFGy2G9P)
