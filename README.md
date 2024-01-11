@@ -1,78 +1,20 @@
-# Обработка и анализ данных физического эксперимента 2022/2023
+# Обработка и анализ данных физического эксперимента 2023/2024
 
-## [Текущая успеваемость](https://docs.google.com/spreadsheets/d/1PWr4xQNQdhlXxvolamEu_szToZI8Tx9vgkm-qitiIlc/edit?usp=sharing)
+## [Устаревшая «упрощённая» программа курса](https://drive.google.com/file/d/1O1OIo2LqlTYdqpBWnXI1It-zoP8qkLwE/view?usp=sharing)
 
-## [«Упрощённая» программа курса](https://drive.google.com/file/d/1O1OIo2LqlTYdqpBWnXI1It-zoP8qkLwE/view?usp=sharing)
-
-## Онлайн-составляющая: [Version Control with Git](https://stepik.org/course/2159/promo#toc)
+## Онлайн-составляющая: [Учебник по Анализу данных (Базовый)](https://edu.hse.ru/course/view.php?id=136232)
 
 ## Практические задания
-- [Тест по питону](https://classroom.github.com/a/pFGy2G9P)
-- [Домашнее задание 1](https://classroom.github.com/a/I6yS97C3)
-- [Домашнее задание 2](https://classroom.github.com/a/rI-q7mus)
-- [Домашнее задание 3](https://classroom.github.com/a/8l88uAXj)
-- [Самостоятельная работа 1](https://classroom.github.com/a/n3YcHJ4X)
-- Контрольная по онлайн-составляющей будет 28.03 в 11.10:
-  - [Ссылка на задание](https://classroom.github.com/a/BjmHAO9s)
-  - [Ссылка на видео-встречу](https://telemost.yandex.ru/j/67421920856519)
-- [Домашнее задание 4](https://classroom.github.com/a/qPjGOCCr)
-- [Домашнее задание 5](https://classroom.github.com/a/6jwv1UcI)
+- [Тест по питону](https://classroom.github.com/a/dJ8jPIKl)
 
 ## Лекции
 
-### 13.01
-Введение. Понятие "алгоритм", введение в анализ алгоритмов. O-нотация. Примеры, когда лучшая асимптотическая сложность не значит быстрее.
-
-### 20.01
-Теория алгоритмов. Понятие об NP-полных задачах. Структуры данных. Массив. Список.
-
-### 27.01
-Двоичные деревья поиска. АВЛ-деревья. Таблица прямой адресации. Хеш-функция. Хеш-таблица.
-
-### 03.02
-Форматы данных. Представления о серверах управления базами данных. Представление о реляционной алгебре.
-
-### 10.02
-Метод наименьших квадратов. Свойства оценки параметров линейной модели методом наименьших квадратов.
-Понятие о плохо обусловленных и некорректных задачах. Регуляризация.
-
-### 17.02
-Анализ главных компонент. Свойства метода анализа главных компонент.
-
-### 03.03
-Методы оптимизации. Классификация задач оптимизации. Классификация алгоритмов оптимизации. Метод градиентного спуска. Метод Ньютона.
-
-### 10.03
-Методы оптимизации. Метод Левенберга-Маркварда. Метод сопряженных градиентов.
-
-### 17.03
-Методы условной оптимизации. Классификация задач оптимизации. Барьерные методы. Проекционные методы. Метод неотрицательных наименьших квадратов.
-
-### 24.03
-Методы стохастической оптимизации. Стохастический градиентный спуск. ADAM. Метод случайного поиска. Алгоритм Метрополиса, метод имитации отжига.
-
 ## Семинары
-
-### 13.01
-Приветливый тест по питону. [Возможный вариант решения](https://github.com/pyoadfe/seminars/blob/master/welcome_test/welcome_test_solution.ipynb)
-
-### 20.01
- * [Шпаргалка по `numpy` и чтению файлов](https://github.com/pyoadfe/seminars/blob/master/numpy/numpy.ipynb)
- * [Шпаргалка по `pandas`](https://github.com/pyoadfe/seminars/blob/master/numpy/pandas.ipynb)
-
-### 27.01
- * [Задачка про число слов](https://github.com/pyoadfe/seminars/blob/master/list_vs_dict/list_vs_dict.ipynb)
-
-### 03.03
- * [Конспект по методам оптимизации](https://raw.githubusercontent.com/pyoadfe/seminars/master/nonlinear_ls/nonlinear_ls.pdf)
-
-### 24.03
- * [Конспект по плохо обусловленным задачам](https://github.com/pyoadfe/seminars/blob/master/ill_posed/ill_posed.ipynb)
 
 ## Дополнительные материалы к курсу
 
 ### Независимый экзамен
-- [Учебник Базовый уровень](https://edu.hse.ru/course/view.php?id=136232)
+- [Учебник по Анализу данных (Базовый)](https://edu.hse.ru/course/view.php?id=136232)
 - [Подготовка к НЭ базовый уровень](https://edu.hse.ru/course/view.php?id=133381)
 
 ### Python
@@ -80,7 +22,6 @@
 - `ru` [Интерактивный учебник по Python](https://snakify.org/ru/)
 - `ru` [Интерактивный задачник по Python](http://pythontutor.ru) — не все примеры решения хороши, но много хороших задач
 - `ru` [Игра, в которой герой управляется вашей программой](http://codecombat.com), выберите Python при создании персонажа
-- `ru` [Курс Вышки на Coursera](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
 - `ru` [Курс на Stepik](https://stepik.org/course/67/)
 - [Курс на Codeacademy](https://www.codecademy.com/learn/learn-python-3)
 - [Официальный туториал по языку](https://docs.python.org/3/tutorial/index.html) — очень хороший материал для последовательного изучения языка
@@ -90,7 +31,7 @@
 
 ### Install Python
 
-Remember to use Python 3, 3.5 and later is good enough in 2019. You can check python version typing in console `python3 --version` or `import sys; print(sys.version)` in Python itself
+Remember to use Python 3, 3.9 and later is good enough in 2024. You can check python version typing in console `python3 --version` or `import sys; print(sys.version)` in Python itself
 
 #### All platforms
 - [Anaconda Python distribution](https://www.anaconda.com/download/) is a good choice for scientific Python programming on every platform. It includes a lot of pre-compiled numerical and scientific packages and `conda` package manager where you can find even more packages, like `astropy` or `scikit-learn`
