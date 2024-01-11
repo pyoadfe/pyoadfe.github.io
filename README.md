@@ -9,6 +9,10 @@
 
 ## Лекции
 
+### 12.01
+- [Глава 2](https://github.com/pyoadfe/lectures/raw/master/book/c2.pdf)
+- [Список литературы](https://github.com/pyoadfe/lectures/raw/master/book/ref.pdf)
+
 ## Семинары
 
 ## Дополнительные материалы к курсу
