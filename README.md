@@ -4,6 +4,8 @@
 
 ## Онлайн-составляющая: [Учебник по Анализу данных (Базовый)](https://edu.hse.ru/course/view.php?id=136232)
 
+## [Вопросы к экзамену](https://github.com/pyoadfe/lectures/raw/master/exam-questions.pdf)
+
 ## Практические задания
 - [Тест по питону](https://classroom.github.com/a/dJ8jPIKl)
 
