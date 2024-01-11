@@ -1,3 +1,5 @@
+# Обработка и анализ данных физического эксперимента 2023/2024
+
 ## [Устаревшая «упрощённая» программа курса](https://drive.google.com/file/d/1O1OIo2LqlTYdqpBWnXI1It-zoP8qkLwE/view?usp=sharing)
 
 ## Онлайн-составляющая: [Учебник по Анализу данных (Базовый)](https://edu.hse.ru/course/view.php?id=136232)
