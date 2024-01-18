@@ -15,6 +15,9 @@
 
 ## Семинары
 
+### 19.02
+- [Решение «Теста по питону»](https://github.com/pyoadfe/seminars/blob/master/welcome_test/welcome_test_solution.ipynb)
+
 ## Дополнительные материалы к курсу
 
 ### Независимый экзамен
