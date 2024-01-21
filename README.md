@@ -18,6 +18,7 @@
 ### 19.02
 - [Решение «Теста по питону»](https://github.com/pyoadfe/seminars/blob/master/welcome_test/welcome_test_solution.ipynb)
 - [Инструкция по работе с Git для продвинутых](https://github.com/pyoadfe/seminars/blob/master/git/git.md)
+- [Шпаргалка по numpy и чтению данных](https://github.com/pyoadfe/seminars/blob/master/numpy/numpy.ipynb)
 
 ## Дополнительные материалы к курсу
 
