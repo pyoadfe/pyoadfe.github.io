@@ -14,6 +14,9 @@
 - [Глава 2](https://github.com/pyoadfe/lectures/raw/master/book/c2.pdf)
 - [Список литературы](https://github.com/pyoadfe/lectures/raw/master/book/ref.pdf)
 
+### 09.02
+- [Глава 3](https://github.com/pyoadfe/lectures/raw/master/book/c3.pdf)
+
 ## Семинары
 
 ### 19.02
