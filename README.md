@@ -25,6 +25,9 @@
 - [Инструкция по работе с Git для продвинутых](https://github.com/pyoadfe/seminars/blob/master/git/git.md)
 - [Шпаргалка по numpy и чтению данных](https://github.com/pyoadfe/seminars/blob/master/numpy/numpy.ipynb)
 
+### 12.02
+- [Блокнот про плохо обусловленные задачи](https://github.com/pyoadfe/seminars/blob/master/ill_posed/ill_posed.ipynb)
+
 ## Дополнительные материалы к курсу
 
 ### Независимый экзамен
