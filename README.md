@@ -18,6 +18,9 @@
 ### 09.02
 - [Глава 3](https://github.com/pyoadfe/lectures/raw/master/book/c3.pdf)
 
+### 16.02
+- [Глава 4](https://github.com/pyoadfe/lectures/raw/master/book/c4.pdf)
+
 ## Семинары
 
 ### 19.02
