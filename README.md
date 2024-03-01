@@ -8,6 +8,7 @@
 - [Тест по питону](https://classroom.github.com/a/dJ8jPIKl)
 - [Домашнее задание 1](https://classroom.github.com/a/9_XR5QY9)
 - [Домашнее задание 2](https://classroom.github.com/a/qXE7Vi9n)
+- [Домашнее задание 3](https://classroom.github.com/a/iRmjFbjL)
 
 ## Лекции
 
