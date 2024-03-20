@@ -35,6 +35,9 @@
 ### 12.02
 - [Блокнот про плохо обусловленные задачи](https://github.com/pyoadfe/seminars/blob/master/ill_posed/ill_posed.ipynb)
 
+### 18.02
+- [Блокнот про неотрицательные наименьшие квадраты](https://github.com/pyoadfe/seminars/blob/master/nnls/nnls.ipynb)
+
 ## Дополнительные материалы к курсу
 
 ### Независимый экзамен
