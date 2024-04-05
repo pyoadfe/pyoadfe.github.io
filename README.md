@@ -10,6 +10,7 @@
 - [Домашнее задание 2](https://classroom.github.com/a/qXE7Vi9n)
 - [Домашнее задание 3](https://classroom.github.com/a/iRmjFbjL)
 - [Самостоятельная работа 1](https://classroom.github.com/a/D3W3lwjg)
+- [Домашнее задание 4](https://classroom.github.com/a/wEmm315l)
 
 ## Лекции
 
