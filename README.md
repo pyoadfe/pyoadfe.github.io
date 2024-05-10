@@ -12,8 +12,8 @@
 - [Самостоятельная работа 1](https://classroom.github.com/a/D3W3lwjg)
 - [Домашнее задание 4](https://classroom.github.com/a/wEmm315l)
 - [Домашнее задание 5](https://classroom.github.com/a/96fQnQWo)
+- [Самостоятельная работа 2](https://classroom.github.com/a/NzA0ZCO4)
 - [Домашнее задание 6](https://classroom.github.com/a/BWvJ50tP)
-
 
 ## Лекции
 
@@ -38,6 +38,9 @@
 
 ### 19.04
 - [Глава 7](https://github.com/pyoadfe/lectures/raw/master/book/c7.pdf)
+
+### 26.04
+- [Глава 8](https://github.com/pyoadfe/lectures/raw/master/book/c8.pdf)
 
 ## Семинары
 
