@@ -14,6 +14,7 @@
 - [Домашнее задание 5](https://classroom.github.com/a/96fQnQWo)
 - [Самостоятельная работа 2](https://classroom.github.com/a/NzA0ZCO4)
 - [Домашнее задание 6](https://classroom.github.com/a/BWvJ50tP)
+- [Домашнее задание 7](https://classroom.github.com/a/IoSvXLWZ)
 
 ## Лекции
 
@@ -54,6 +55,9 @@
 
 ### 18.02
 - [Блокнот про неотрицательные наименьшие квадраты](https://github.com/pyoadfe/seminars/blob/master/nnls/nnls.ipynb)
+
+### 24.05
+- [Блокнот про задачку с частицами](https://github.com/pyoadfe/seminars/blob/master/particles/particles.ipynb)
 
 ## Дополнительные материалы к курсу
 
