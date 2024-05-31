@@ -16,6 +16,8 @@
 - [Домашнее задание 6](https://classroom.github.com/a/BWvJ50tP)
 - [Домашнее задание 7](https://classroom.github.com/a/IoSvXLWZ)
 
+## [Вопросы к экзамену](https://github.com/pyoadfe/lectures/blob/master/exam-questions.pdf)
+
 ## Лекции
 
 ### 12.01
