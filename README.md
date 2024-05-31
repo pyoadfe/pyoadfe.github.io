@@ -59,6 +59,9 @@
 ### 24.05
 - [Блокнот про задачку с частицами](https://github.com/pyoadfe/seminars/blob/master/particles/particles.ipynb)
 
+### 07.06
+- [Блокнот про автокодировщик](https://github.com/pyoadfe/seminars/blob/master/autoencoder/autoencoder.ipynb)
+
 ## Дополнительные материалы к курсу
 
 ### Независимый экзамен
