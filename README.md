@@ -45,6 +45,9 @@
 ### 26.04
 - [Глава 8](https://github.com/pyoadfe/lectures/raw/master/book/c8.pdf)
 
+### 03.05
+- [Глава 9](https://github.com/pyoadfe/lectures/raw/master/book/c9.pdf)
+
 ### 07.06
 - [Слайды лекции про машинное обучение](https://disk.yandex.ru/d/H5wm1rlZTKXu_w)
 
