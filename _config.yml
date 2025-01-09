@@ -3,7 +3,7 @@ theme: minima
 minima:
   skin: solarized-light
 
-title: Обработка и анализ данных физического эксперимента 2023/2024
+title: Обработка и анализ данных физического эксперимента 2024/2025
 
 social_links:
   - { platform: github,         user_url: "https://github.com/pyoadfe" }
