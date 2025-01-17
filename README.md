@@ -13,6 +13,7 @@
 ## Лекции
 
 ## Семинары
+- [Решение теста по питону](https://github.com/pyoadfe/seminars/blob/master/welcome_test/welcome_test_solution.ipynb)
 
 ## Дополнительные материалы к курсу
 
