@@ -14,6 +14,7 @@
 
 ## Семинары
 - [Решение теста по питону](https://github.com/pyoadfe/seminars/blob/master/welcome_test/welcome_test_solution.ipynb)
+- [Шпаргалка по numpy](https://github.com/pyoadfe/seminars/blob/master/numpy/numpy.ipynb)
 
 ## Дополнительные материалы к курсу
 
