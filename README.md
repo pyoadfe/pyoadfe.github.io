@@ -1,5 +1,8 @@
 # Обработка и анализ данных физического эксперимента 2024/2025
 
+## [Совместный код Б-713](https://ya.cc/t/IKQiefgF654xXp)
+## [Совместный код Б-719](https://ya.cc/t/Cs3tdxht67d8Mh)
+
 ## [Устаревшая «упрощённая» программа курса](https://drive.google.com/file/d/1O1OIo2LqlTYdqpBWnXI1It-zoP8qkLwE/view?usp=sharing)
 
 ## Онлайн-составляющая: [Учебник по Анализу данных (Базовый)](https://edu.hse.ru/course/view.php?id=136232)
@@ -15,7 +18,6 @@
 ## Семинары
 - [Решение теста по питону](https://github.com/pyoadfe/seminars/blob/master/welcome_test/welcome_test_solution.ipynb)
 - [Шпаргалка по numpy](https://github.com/pyoadfe/seminars/blob/master/numpy/numpy.ipynb)
-- [Совместный код 713](https://ya.cc/t/IKQiefgF654xXp)
 
 ## Дополнительные материалы к курсу
 
