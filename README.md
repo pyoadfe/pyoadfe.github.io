@@ -16,6 +16,7 @@
 - [Тест по питону](https://classroom.github.com/a/-tvrqsYO)
 - [Домашнее задание 1](https://classroom.github.com/a/BKZCs81v)
 - [Домашнее задание 2](https://classroom.github.com/a/XA2TZtKw)
+- [Самостоятельная работа 1](https://classroom.github.com/a/3_sgJD88)
 
 ## Лекции
 
