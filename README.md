@@ -22,6 +22,7 @@
 - [Домашнее задание 5](https://classroom.github.com/a/LfImblIs)
 - [Самостоятельная работа 2](https://classroom.github.com/a/c593pwgG)
 - [Домашнее задание 6](https://classroom.github.com/a/qC2nngZc)
+- [Домашнее задание 7](https://classroom.github.com/a/YzbEUwyu)
 
 ## Лекции
 
