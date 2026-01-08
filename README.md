@@ -1,30 +1,13 @@
-# Обработка и анализ данных физического эксперимента 2024/2025
-
-## [Совместный код Б-713 (Ya)](https://ya.cc/t/IKQiefgF654xXp)
-## [Совместный код Б-713 (Vk)](https://interview.cups.online/live-coding/?room=74310750-d58f-4221-95a2-46d0aabc3f1c)
-
-## [Совместный код Б-719 (Ya)](https://ya.cc/t/Cs3tdxht67d8Mh)
-## [Совместный код Б-719 (Vk)](https://interview.cups.online/live-coding/?room=8c9cd404-cfc8-4a5c-8768-7ca5937ce00d)
+# Обработка и анализ данных физического эксперимента 2025/2026
 
 ## [Устаревшая «упрощённая» программа курса](https://drive.google.com/file/d/1O1OIo2LqlTYdqpBWnXI1It-zoP8qkLwE/view?usp=sharing)
 
 ## Онлайн-составляющая: [Учебник по Анализу данных (Базовый)](https://edu.hse.ru/course/view.php?id=136232)
 
-## [Черновик конспекта лекций](https://github.com/pyoadfe/lectures/raw/refs/heads/master/book/main.pdf)
+## [Черновик конспекта лекций](https://gitverse.ru/api/repos/pyoadfe/lectures/raw/branch/master/book/main.pdf)
 
 ## Практические задания
-- [Тест по питону](https://classroom.github.com/a/-tvrqsYO)
-- [Домашнее задание 1](https://classroom.github.com/a/BKZCs81v)
-- [Домашнее задание 2](https://classroom.github.com/a/XA2TZtKw)
-- [Самостоятельная работа 1](https://classroom.github.com/a/3_sgJD88)
-- [Домашнее задание 3](https://classroom.github.com/a/W62vnpMP)
-- [Домашнее задание 4](https://classroom.github.com/a/RUNhxBVk)
-- [Домашнее задание 5](https://classroom.github.com/a/LfImblIs)
-- [Самостоятельная работа 2](https://classroom.github.com/a/c593pwgG)
-- [Домашнее задание 6](https://classroom.github.com/a/qC2nngZc)
-- [Домашнее задание 7](https://classroom.github.com/a/YzbEUwyu)
-
-## [Вопросы к экзамену](https://github.com/pyoadfe/lectures/blob/master/exam-questions.pdf)
+- [Тест по питону](https://gitverse.ru/smartclass?invite=df7cf4a7-eae9-11f0-8980-022ea615278d)
 
 ## Лекции
 
@@ -50,26 +33,26 @@
 - [Игра для тех, кто уже освоил азы Python](https://py.checkio.org)
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html) — короткий туториал по библиотеке pandas от разработчиков
 
-### Install Python
+### Установка Python
 
-Remember to use Python 3, 3.11 and later is good enough in 2025.
-You can check python version typing in console `python3 --version` or `import sys; print(sys.version)` in Python itself
+Помните, что нужно использовать Python 3, версии 3.11 и новее вполне достаточно в 2026 году.
+Вы можете проверить версию Python, введя в консоли `python3 --version` или `import sys; print(sys.version)` в самом Python.
 
-#### All platforms
-- [Anaconda Python distribution](https://www.anaconda.com/download/) is a good choice for scientific Python programming on every platform. It includes a lot of pre-compiled numerical and scientific packages and `conda` package manager where you can find even more packages, like `astropy` or `scikit-learn`
-- [Official Python distribution](https://www.python.org/downloads/): good on Windows or macOS, when you like to build your environment from scratch.
+#### Все платформы
+- **[Anaconda Python distribution](https://www.anaconda.com/download/)** — хороший выбор для научного программирования на Python на любой платформе. Включает множество предварительно скомпилированных численных и научных пакетов, а также менеджер пакетов `conda`, где можно найти ещё больше пакетов, таких как `astropy` или `scikit-learn`.
+- **[Официальный дистрибутив Python](https://www.python.org/downloads/)** — хорош на Windows или macOS, если вы предпочитаете создавать окружение с нуля.
 
 #### macOS
-Instead of official Python distribution I recommend to use [Homebrew](http://brew.sh) package manager, type `brew install python`
+Вместо официального дистрибутива Python мы рекомендуем использовать менеджер пакетов **[Homebrew](http://brew.sh)**. Введите `brew install python`.
 
 #### Linux
-Probably you already have Python 3, check its version before start. If you haven't use your Linus package manager to install
+Скорее всего, Python 3 у вас уже есть. Проверьте его версию перед началом работы. Если его нет, используйте пакетный менеджер вашего дистрибутива Linux для установки.
 
-### Source code editors for Python
-- [IDLE](https://docs.python.org/3/library/idle.html): a simple Python source code editor. It is a part of Python standard library, so if you have Python, you probably have IDLE
-- [Visual Studio Code](https://code.visualstudio.com) (do not be confused with Visual Studio, they are two different products): a powerful source code editor
-- [Spyder](https://www.spyder-ide.org): the scientific Python development environment
-- [PyCharm](https://www.jetbrains.com/pycharm/): a powerful Python IDE (integrated development environment). PyCharm is closed source product, but Community edition is free to use and every student and professor can ask for a [free professional version](https://www.jetbrains.com/student/)
+### Редакторы исходного кода для Python
+- **[IDLE](https://docs.python.org/3/library/idle.html)** — простой редактор исходного кода Python. Он является частью стандартной библиотеки Python, поэтому если у вас установлен Python, скорее всего, у вас есть и IDLE.
+- **[Visual Studio Code](https://code.visualstudio.com)** (не путать с Visual Studio — это два разных продукта) — мощный редактор исходного кода.
+- **[Spyder](https://www.spyder-ide.org)** — среда разработки для научного программирования на Python.
+- **[PyCharm](https://www.jetbrains.com/pycharm/)** — мощная IDE (интегрированная среда разработки) для Python. PyCharm является проприетарным продуктом, но Community Edition бесплатна для использования, а каждый студент и преподаватель может запросить **[бесплатную профессиональную версию](https://www.jetbrains.com/student/)**.
 
 ### Git
 
