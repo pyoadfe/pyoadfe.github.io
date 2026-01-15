@@ -1,5 +1,11 @@
 # Обработка и анализ данных физического эксперимента 2025/2026
 
+## [Совместный код Б-713 (Ya)](https://ya.cc/t/w-Zu0Ft28XeoFd)
+## [Совместный код Б-713 (Vk)](https://interview.cups.online/live-coding/?room=74310750-d58f-4221-95a2-46d0aabc3f1c)
+
+## [Совместный код Б-719 (Ya)](https://ya.cc/t/XMa8VCRI8XepqZ)
+## [Совместный код Б-719 (Vk)](https://interview.cups.online/live-coding/?room=8c9cd404-cfc8-4a5c-8768-7ca5937ce00d)
+
 ## [Устаревшая «упрощённая» программа курса](https://drive.google.com/file/d/1O1OIo2LqlTYdqpBWnXI1It-zoP8qkLwE/view?usp=sharing)
 
 ## Онлайн-составляющая: [Учебник по Анализу данных (Базовый)](https://edu.hse.ru/course/view.php?id=136232)
