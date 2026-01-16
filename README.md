@@ -14,6 +14,7 @@
 
 ## Практические задания
 - [Тест по питону](https://gitverse.ru/smartclass?invite=df7cf4a7-eae9-11f0-8980-022ea615278d)
+- [Домашнее задание 1](https://gitverse.ru/smartclass?invite=1db7353d-f1ed-11f0-93db-1abeb8d1d9a3)
 
 ## Лекции
 
