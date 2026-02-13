@@ -16,6 +16,8 @@
 - [Тест по питону](https://gitverse.ru/smartclass?invite=df7cf4a7-eae9-11f0-8980-022ea615278d)
 - [Домашнее задание 1](https://gitverse.ru/smartclass?invite=1db7353d-f1ed-11f0-93db-1abeb8d1d9a3)
 - [Домашнее задание 2](https://gitverse.ru/smartclass?invite=6d70ad8d-fd34-11f0-bcea-561647633177)
+- [Домашнее задание 3](https://gitverse.ru/smartclass?invite=a5d9a00e-0836-11f1-b9ab-fa0aa9b94d27)
+- [Домашнее задание 4](https://gitverse.ru/smartclass?invite=6ae934c0-2392-11f1-8dd3-8e356aa8af03)
 
 ## Лекции
 
@@ -70,3 +72,6 @@
 - [Введение в Git от компании Selectel](https://selectel.ru/blog/courses/introduction-to-git/)
 - ["Commits are snapshots, not diffs"](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs) — как Git хранит данные. Заметка, рассказывающая о внутренностях Git с точки зрения структур данных.
 - ["GitHub Desktop"](https://desktop.github.com/) — графический интерфейс для GitHub
+
+### SQL
+- [Postgres: первое знакомство](https://postgrespro.ru/education/books/introbook) --  базовые сведения об устройстве и основных особенностях PostgreSQL
