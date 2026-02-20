@@ -17,6 +17,7 @@
 - [Домашнее задание 1](https://gitverse.ru/smartclass?invite=1db7353d-f1ed-11f0-93db-1abeb8d1d9a3)
 - [Домашнее задание 2](https://gitverse.ru/smartclass?invite=6d70ad8d-fd34-11f0-bcea-561647633177)
 - [Домашнее задание 3](https://gitverse.ru/smartclass?invite=a5d9a00e-0836-11f1-b9ab-fa0aa9b94d27)
+- [Самостоятельная работа 1](https://gitverse.ru/smartclass?invite=12504060-0d70-11f1-a8bc-cae84ec0fc39)
 
 ## Лекции
 
