@@ -18,6 +18,7 @@
 - [Домашнее задание 2](https://gitverse.ru/smartclass?invite=6d70ad8d-fd34-11f0-bcea-561647633177)
 - [Домашнее задание 3](https://gitverse.ru/smartclass?invite=a5d9a00e-0836-11f1-b9ab-fa0aa9b94d27)
 - [Домашнее задание 4](https://gitverse.ru/smartclass?invite=6ae934c0-2392-11f1-8dd3-8e356aa8af03)
+- [Домашнее задание 5](https://gitverse.ru/smartclass?invite=e3e5f537-33f9-11f1-9bdb-6a7445bd6b15)
 
 ## Лекции
 
